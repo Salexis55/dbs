@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <name>dbs</name>
   <description>En este proyecto estudiamos diferentes tipos de base de datos, ya sea las relacionales y no relacionales </description>
+  <modules>
+  	<module>objectorienteddbs</module>
+  </modules>
 </project>
